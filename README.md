@@ -4,7 +4,7 @@
 > Mission: build something that listens, even when I couldn't fit "licensed therapist" into my GitHub repo.
 
 ---
-
+🔗 **Live Demo:** https://sahaara-one.vercel.app/
 ## 🧠 What is this?
 
 Sahaara (Hindi/Urdu for *"support"*) is a simple AI-powered chatbot designed to give people from underprivileged backgrounds a calm, judgment-free space to talk — with a built-in safety net that automatically detects crisis language and redirects the person to real, free helplines instead of continuing the chat.
